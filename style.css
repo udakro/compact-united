@@ -5,16 +5,17 @@
 }
 
 .special-event-alert > .alert__content {
-    width: 50%;
+    font-size: 15px;
+/*    width: 50%;
     display:flex;
-    justify-content: space-around;
+    justify-content: space-around; */
 }
 
-@media screen and (max-width: 512px) {
+/*@media screen and (max-width: 512px) {
     .special-event-alert > .alert__content {
         width: 98%;
     }
-}
+}*/
 
 
 /* Chatbox-related changes */
@@ -28,7 +29,7 @@
 /* More compact chat bubbles */
 
 .chatbox-message__content {
-    font-size: 14px;
+    font-size: 15px;
     padding: 0px 8px 4px 8px;
 }
 
