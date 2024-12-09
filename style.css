@@ -40,3 +40,11 @@
 .chatroom__messages {
     gap: 6px;
 }
+
+/* Background Graphic */
+
+body {
+    background: #1e2d33
+        url('https://raw.githubusercontent.com/xzin-CoRK/stylesheets/refs/heads/main/aither-bg.svg');
+    background-size: 512px auto;
+}
